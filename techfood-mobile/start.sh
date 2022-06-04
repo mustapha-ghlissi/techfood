@@ -1,0 +1,1 @@
+watchman watch-del-all && rm -rf android/app/build && npx react-native start

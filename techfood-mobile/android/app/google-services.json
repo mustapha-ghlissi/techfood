@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "193544647509",
+    "firebase_url": "https://techfood-828e7.firebaseio.com",
+    "project_id": "techfood-828e7",
+    "storage_bucket": "techfood-828e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193544647509:android:2ee5f90450a1be4e3d75dc",
+        "android_client_info": {
+          "package_name": "com.techfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193544647509-qe446pcr3acvoli5l10u4t0p6qta4njp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkmat8tLRYZ3vuXke0sBP8nCW2Pzrkg9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193544647509-qe446pcr3acvoli5l10u4t0p6qta4njp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
